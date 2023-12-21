@@ -1,0 +1,9 @@
+.Book {
+  display: flex;
+}
+.Book_img img {
+  height: 350px;
+}
+.Book_img img:hover {
+  height: 600px;
+}
